@@ -10,6 +10,8 @@ Curso Udemy: Formação Profissional Python 2022: Curso Completo + Projetos - Fe
 
 
 **Criação**
+
+
 $ python -m venv .venv
 
 
